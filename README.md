@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @sanjithdoescode
-- 👀 I’m interested in getting into the top companies present in The Silicon Valley
-- 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @sanjithkarthik at x.com or https://www.linkedin.com/in/sanjith-karthikeyan-492762335?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTFV6G5POQrmCwQw1HQDIJQ%3D%3D 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i get things done.
+- hi! the name is sanjith :)
+- energetic tech enthusiast since forever.
+- python and ml (applying ai in medicine)
+- interested to connect with people who are at my level and above (i myself am an amateur. can't get into google because i can solve fizzbuzz :P)
+- reach me: @sanjithkarthik at twitter.com 
 
 <!---
 sanjithdoescode/sanjithdoescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
