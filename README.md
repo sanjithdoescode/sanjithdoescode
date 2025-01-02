@@ -1,6 +1,7 @@
 - hi! the name is sanjith :)
 - energetic tech enthusiast since forever.
-- python and ml (applying ai in medicine)
+- python and ml (applying ai in medicine, how? that's a question. for now.)
+- cp amateur
 - interested to connect with people who are at my level and above (i myself am an amateur. can't get into google because i can solve fizzbuzz :P)
 - reach me: @sanjithkarthik at twitter.com 
 
