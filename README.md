@@ -1,6 +1,6 @@
 # Sanjith
 
-CS Engineering student. Exploring AI, Linux, full-stack development and the lovely world of tech. Interested in real-world problem-solving through technology.
+CS Engineering student. Exploring AI, Linux, full-stack development and the lovely world of tech. Interested in real world problem solving through technology.
 
 ### Interests
 - AI & Machine Learning
@@ -11,7 +11,7 @@ CS Engineering student. Exploring AI, Linux, full-stack development and the love
 ### Current Projects
 - Developing an AI-driven xxxxxx prediction system
 - Exploring Linux and virtualization
-- Enhancing problem-solving with LeetCode & Python
+- Enhancing problem solving with LeetCode & Python
 - Building a collaborative tech community
 
 ### Contact
