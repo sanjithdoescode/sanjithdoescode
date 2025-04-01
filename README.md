@@ -1,24 +1,25 @@
-# Sanjith
+# Sanjith Karthikeyan
 
-CS Engineering student. Exploring AI, Linux, full-stack development and the lovely world of tech. Interested in real world problem solving through technology.
+CS Engineering student.
+cool project(s).
+innovation within and outside.
+impact society, make money, win.
 
 ### Interests
-- AI & Machine Learning
-- Full-Stack Development
-- Linux & Ethical Hacking
-- Films with depth and realism
+- AI & ML.
+- full-stack.
+- testing new technologies.
 
-### Current Projects
-- Developing an AI-driven xxxxxx prediction system
-- Exploring Linux and virtualization
-- Enhancing problem solving with LeetCode & Python
-- Building a collaborative tech community
+### in today's episode of sanjith
+- developing an AI-driven platform for farmers to connect with consumers
+- linux and stuff
+- pushing gen ai to it's limits
+- frequent dsa 
 
 ### Contact
-- Email: [sanjithkarthik16@gmail.com]
-- Twitter/X: [https://x.com/sanjithkarthik]
-- GitHub: [You're here]
-- LinkedIn: [www.linkedin.com/in/sanjith-karthikeyan]
+- email: [sanjithkarthik16@gmail.com]
+- twitter: [https://x.com/sanjithkarthik]
+- linkedin: [www.linkedin.com/in/sanjith-karthikeyan]
 
 <!---
 sanjithdoescode/sanjithdoescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
