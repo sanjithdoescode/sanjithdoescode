@@ -1,9 +1,10 @@
 # Sanjith Karthikeyan
 
-CS Engineering student.
-cool project(s).
-innovation within and outside.
-impact society, make money, win.
+### CS Engineering student.
+- cool project(s).
+- innovation within and outside.
+- loveeeee technology
+- impact society, make money, win.
 
 ### Interests
 - AI & ML.
@@ -20,6 +21,7 @@ impact society, make money, win.
 - email: [sanjithkarthik16@gmail.com]
 - twitter: [https://x.com/sanjithkarthik]
 - linkedin: [www.linkedin.com/in/sanjith-karthikeyan]
+- say hi, maybe you are awesome!
 
 <!---
 sanjithdoescode/sanjithdoescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
