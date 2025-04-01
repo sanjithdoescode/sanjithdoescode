@@ -12,16 +12,16 @@
 - testing new technologies.
 
 ### in today's episode of sanjith
-- developing an AI-driven platform for farmers to connect with consumers
-- linux and stuff
-- pushing gen ai to it's limits
-- frequent dsa 
+- developing an AI-driven platform for farmers to connect with consumers.
+- linux and stuff.
+- pushing gen ai to it's limits.
+- frequent dsa. 
 
 ### Contact
 - email: [sanjithkarthik16@gmail.com]
 - twitter: [https://x.com/sanjithkarthik]
 - linkedin: [www.linkedin.com/in/sanjith-karthikeyan]
-- say hi, maybe you are awesome!
+- say hi, i'd love to meet you. GUARANTEE you'll find me interesting lol :D
 
 <!---
 sanjithdoescode/sanjithdoescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
