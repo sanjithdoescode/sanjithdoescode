@@ -1,14 +1,14 @@
 # Sanjith Karthikeyan
 
 ## CS Engineering student.
-### slop shipper
+### slop shipper.
 
-### Interests
-- AI & ML.
+### interests:
+- AI & DS.
 - full-stack.
 - testing new technologies.
 
-### Contact
+### contact:
 - email: [sanjithkarthik@icloud.com]
 - twitter: [https://x.com/sanjithkarthik]
 - linkedin: [www.linkedin.com/in/sanjithkarthik]
