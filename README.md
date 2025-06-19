@@ -1,27 +1,18 @@
 # Sanjith Karthikeyan
 
-### CS Engineering student.
-- cool project(s).
-- innovation within and outside.
-- loveeeee technology
-- impact society, make money, win.
+## CS Engineering student.
+### slop shipper
 
 ### Interests
 - AI & ML.
 - full-stack.
 - testing new technologies.
 
-### in today's episode of sanjith
-- developing an AI-driven platform for farmers to connect with consumers.
-- linux and stuff.
-- pushing gen ai to it's limits.
-- frequent dsa. 
-
 ### Contact
-- email: [sanjithkarthik16@gmail.com]
+- email: [sanjithkarthik@icloud.com]
 - twitter: [https://x.com/sanjithkarthik]
-- linkedin: [www.linkedin.com/in/sanjith-karthikeyan]
-- say hi, i'd love to meet you. GUARANTEE you'll find me interesting lol :D
+- linkedin: [www.linkedin.com/in/sanjithkarthik]
+  
 
 <!---
 sanjithdoescode/sanjithdoescode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
