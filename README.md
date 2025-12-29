@@ -9,7 +9,7 @@
 - testing new technologies.
 
 ### contact:
-- email: [sanjithkarthik@icloud.com]
+- email: [sanjithkarthik@hotmail.com]
 - twitter: [https://x.com/sanjithkarthik]
 - linkedin: [www.linkedin.com/in/sanjithkarthik]
   
